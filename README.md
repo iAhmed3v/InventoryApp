@@ -1,15 +1,8 @@
-Inventory - Starter Code
+InventoryApp
 ==================================
 
-Starter code for Android Basics in Kotlin.
 
-Introduction
-------------
-
-This app is an stater code for an Inventory tracking app. Demos how to add, update, sell, and delete
- items from the local database.
-This app demonstrated
-the use of Android Jetpack component [Room](https://developer.android.com/training/data-storage/room) database.  
+This app demonstrate the use of Android Jetpack component [Room](https://developer.android.com/training/data-storage/room) database.  
 
 The app also leverages [ViewModel](https://developer.android.com/topic/libraries/architecture/viewmodel),
 [LiveData](https://developer.android.com/topic/libraries/architecture/livedata),
@@ -18,19 +11,9 @@ The app also leverages [ViewModel](https://developer.android.com/topic/libraries
 and [Navigation](https://developer.android.com/topic/libraries/architecture/navigation/)
 with the SafeArgs plugin for parameter passing between fragments.
 
-Pre-requisites
---------------
 
-You need to know:
-- How to create and use fragments.
-- How to navigate between fragments, and use safeArgs to pass data between fragments.
-- How to use architecture components including ViewModel, LiveData, and LiveData transformations.
-- How to use coroutines for long-running tasks.
-- RecyclerView and adapters
-- SQLite database and the SQLite query language
+![Screenshot_20220929_115412222](https://user-images.githubusercontent.com/85061997/192991346-a661ddd7-55ef-4d2f-b6b0-46cfdc59a91c.png)   ![Screenshot_20220929_115548888](https://user-images.githubusercontent.com/85061997/192991388-3dd8d273-e81c-499c-8c87-fbc96ec5c07d.png)
 
+ 
+![Screenshot_20220929_11560777](https://user-images.githubusercontent.com/85061997/192990857-4c5679f0-626c-4952-8722-8cd521410675.png)    ![Screenshot_20220929_115623333](https://user-images.githubusercontent.com/85061997/192991458-b94197d4-149c-49f8-962a-f96bf084220b.png)
 
-Getting Started
----------------
-
-1. Download and run the app.
